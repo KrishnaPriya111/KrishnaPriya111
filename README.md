@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Krishna Priya
 
-<!--
-**KrishnaPriya111/KrishnaPriya111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA & UAT Tester | IRT Domain | 6+ Years Experience** 
 
-Here are some ideas to get you started:
+## 🛠️ **Skills & Expertise**
+**UAT Testing** - User Acceptance Testing in IRT Clinical Domain
+**Automation Testing** - Learning Cypress, Selenium for test automation
+**SQL** - Strong in database validation for UAT
+**Test Planning & Execution** - Writing test scenarios, dry runs, and execution
+**Debugging & Defect Management** --Finding bugs and reporting them in HP ALM, SPIRA or JIRA
+**API testing** - Using Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect with Me**
+**LinkedIn:** https://www.linkedin.com/in/krishna-priya96/
+**Email:** krishnapriyaponathil@gmail.com
